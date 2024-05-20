@@ -36,7 +36,7 @@ Gradle wrapper это Java библиотека, которая
 
 Откройте меню: File -> Project Structure
 и убедитесь, что у вас выбрана
-SDK 18 (например Amazon Corretto version 21.0.3)
+SDK 21 (например Amazon Corretto version 21.0.3)
 и установлен Language Level: 21 - JavaDoc snippets
 или SDK default.
 
